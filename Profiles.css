@@ -1,0 +1,50 @@
+/* Container principal */
+.profilex-page {
+    padding: 20px;
+  }
+  
+  /* Titre de la page */
+  .profilex-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #272f47;
+  }
+  
+  /* Liste des profils */
+  .profilex-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  /* Élément de profil */
+  .profilex-item {
+    margin-bottom: 20px;
+    background-color: #b6b2b2;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Nom et prénom */
+  .profilex-name {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Email */
+  .profilex-email {
+    margin-bottom: 5px;
+  }
+  
+  /* Spécialité */
+  .profilex-specialite {
+    margin-bottom: 5px;
+  }
+  
+  /* Ville */
+  .profilex-ville {
+    margin-bottom: 5px;
+  }
+  
